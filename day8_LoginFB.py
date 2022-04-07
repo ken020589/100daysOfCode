@@ -1,5 +1,5 @@
 ##!/usr/bin/env python
-#day9 Auto log in Facebook
+#day8 Auto log in Facebook
 
 import email
 from selenium import webdriver
